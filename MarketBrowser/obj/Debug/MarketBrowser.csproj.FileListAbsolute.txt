@@ -1,0 +1,10 @@
+C:\DBP\MarketBrowser\bin\Debug\MarketBrowser.exe.config
+C:\DBP\MarketBrowser\bin\Debug\MarketBrowser.exe
+C:\DBP\MarketBrowser\bin\Debug\MarketBrowser.pdb
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.csprojAssemblyReference.cache
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.MainForm.resources
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.Properties.Resources.resources
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.csproj.GenerateResource.cache
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.csproj.CoreCompileInputs.cache
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.exe
+C:\DBP\MarketBrowser\obj\Debug\MarketBrowser.pdb
